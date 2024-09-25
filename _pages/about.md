@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 Ph.D. in Finance
-Research interest:
+
+Research interest: Corporate finance, Corporate Governance
 
 Employment & Education
 ======
